@@ -2496,6 +2496,11 @@
         "name": "Newzik Templates",
         "url": "https://github.com/newzik/NewzikTemplates.git",
         "description": "File templates for Newzik Coding Standard"
+      },
+      {
+        "name": "JsonToProperties",
+        "url": "https://github.com/hoolang/JsonToProperties.git",
+        "description": "Easy Json format to Object Properties"
       }
     ]
   }
